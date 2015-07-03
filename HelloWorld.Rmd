@@ -2,7 +2,7 @@
 title: "HelloWorld"
 author: "VRam"
 date: "July 2, 2015"
-output: html_document
+output: markdown
 ---
 ## This is a markdown file
 
